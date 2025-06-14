@@ -1,0 +1,39 @@
+
+.content{
+  max-width: 1180px;
+  height: 100vh;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+}
+
+h1{
+    font-size: 4rem;
+}
+.bt{
+    float: right;
+   height: 44px;
+   width: 220px;
+   background-color: black;
+   color: white;
+}
+.b:hover{
+    background-color: white;
+    color: black;
+}
+
+.score {
+    font-size: 2rem;
+    font-weight: bold;
+    max-width: 155px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.score h1{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    text-align: center;
+}
+.score p{
+    margin: 0px;
+}
