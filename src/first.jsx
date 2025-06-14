@@ -1,6 +1,6 @@
 import './first.css';
 import { Link } from 'react-router-dom';
-import dice1 from './assets/dice_1.png';
+import dice1 from './assets/dices1.png';
 
 
 function First(){
